@@ -1,0 +1,11 @@
+{
+  "tesseract_path": "",
+  "bbox": [1820, 530, 2460, 1220],
+  "target_text": "Fishing Bobber splash",
+  "scan_interval_seconds": 0.2,
+  "bite_delay_seconds": 0.5,
+  "recast_cooldown_seconds": 1.8,
+  "start_stop_hotkey": "f6",
+  "exit_hotkey": "f7",
+  "debug_ocr": false
+}
